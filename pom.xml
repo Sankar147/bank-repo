@@ -6,6 +6,7 @@
 
   <groupId>com.companyname.bank</groupId>
   <artifactId>consumerBanking</artifactId>
+  <packaging>war</packaging>
   <version>2.0-SNAPSHOT</version>
   
   <name>consumerBanking</name>
